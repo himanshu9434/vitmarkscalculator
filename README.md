@@ -1,7 +1,7 @@
 This Project is build by Reactjs
 
 This project calculates total marks obtained as per new rule by VIT University, India for the Winter-Sem (2019-2020)
-This project all displays Pass or Fail status
+This project also displays Pass or Fail status
 
 ## Available Scripts
 
